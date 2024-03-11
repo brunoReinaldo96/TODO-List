@@ -1,0 +1,14 @@
+{
+  "name": "ts-begginer",
+  "version": "1.0.0",
+  "description": "[Try it here](http://tsbeginner.devsamurai.s3-website.eu-central-1.amazonaws.com/)",
+  "scripts": {
+    "build": "npx tsc -w"
+  },
+  "author": "Reinaldo Bruno",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "main": "index.js"
+}
